@@ -1,4 +1,4 @@
-// tipos premitivos
+// tipos primitivos
 
 //boolean
 var vOuF = false;
